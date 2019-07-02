@@ -2,122 +2,61 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About
 
-[Link to another page](./another-page.html).
+Ping Fan (Zetta) is an Assistant Professor in the [School of Information Systems (SIS)](https://sis.smu.edu.sg){:target="_blank"} at the [Singapore Management University (SMU)](https://www.smu.edu.sg){:target="_blank"}. He received his Ph.D. degree in Information Systems from the [Department of ISOM](http://www.bm.ust.hk/isom), [School of Business and Management](http://www.bm.ust.hk){:target="_blank"}, [HKUST](https://www.ust.hk){:target="_blank"} in 2018. 
 
-There should be whitespace between paragraphs.
+His research focuses on the area of cybersecurity, in both managerial and technical aspects. On the managerial side, his research examines the economic incentive and mechanism design in various contexts in cybersecurity, including cybersecurity policy, managed security service, bug bounty program, DevSecOps and Blockchain. On the technical side, he conducts vulnerability researches in Web and Desktop applications.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+His recent research regarding the contract design in managed security service has been published in ***Information Systems Research (ISR)***. His research has been presented in leading academic conferences, such as *International Conference on Information Systems (ICIS)*, *the Workshop on Information Systems and Economics (WISE)* and *Workshop on e-Business (WeB)*. His work has also presented in industral conferences and workshops, such as *DEF CON*, *Hacks in Taiwan Conference (HITCON)* and *Information Security Summit*.
 
-# Header 1
+Prior to joining SMU, he is a Visiting Scholar in HKUST. He also served as a team coach of the Firebird CTF team in the [Cybersecurity Lab](http://cybersecurity.cse.ust.hk/){:target="_blank"} in HKUST, where the team has won in several local competitions like *PwC HackaDay* and been invited to participate in several worldwide competitions like *HITB GSEC CTF*.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Research Interests
+* Economics of Information Systems 
+* Cybersecurity
+* Blockchain and Cryptocurrency 
+* Machine Learning and AI Application
 
-## Header 2
+## Publications and Presentations
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Journal Publications
+* Bilateral Liability-Based Contracts in Information Security Outsourcing, by HUI, Kai-Lung; KE, Ping Fan; YAO, Yuxi; YUE, Wei Thoo. (2019). *Information Systems Research*, 30(2), pp.411-429. [https://pubsonline.informs.org/doi/pdf/10.1287/isre.2018.0806](https://pubsonline.informs.org/doi/pdf/10.1287/isre.2018.0806){:target="_blank"}
 
-### Header 3
+### Conference Presentations
+* Influence of Transaction Cost on Smart Contract: An Economic Analysis on Token-Curated Registry, by KE, Ping Fan. (2018). *Pre-ICIS SIGBPS 2018 Workshop on Blockchain and Smart Contract*, December 13 2018, San Francisco, CA.
+* An Empirical Study of the Effect of Government-initiated Filter Schemes on Cybersecurity, by HUI, Kai-Lung; KE, Ping Fan; YUE, Wei Thoo. (2017). *Workshop on e-Business (WeB)*, December 10 2017, Seoul, South Korea.
+* Cybersecurity Regulations and Cyberattacks: A case Study in China, by KE, Ping Fan; HUI, Kai-Lung; YUE, Wei Thoo. (2015). *Workshop on Information Systems and Economics (WISE)*, December 12-13 2015, Dallas, TX.
+* Regulating Information Asymmetry in Information Security Outsourcing Market, by HUI, Kai-Lung; KE, Ping Fan; YUE, Wei Thoo. (2014). *Workshop on Information Systems and Economics (WISE)*, December 17-19, 2014, Auckland, New Zealand.
+* Information Security as a Credence Good, by KE, Ping Fan; HUI, Kai-Lung; YUE, Wei Thoo. (2013). *The 2013 Workshop on Usable Security (USEC’ 13)*, April 1 2013, Okinawa, Japan.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Case
+* PopVote: Assessing the Risks of DDoS, by HUI, Kai-Lung; HUANG, Minyi; KE, Ping FAN; LAI, Anthony. (2016) Thompson Center for Business Case Studies, HKUST Business School. [http://www.cbcs.ust.hk/case-database/popvote-assessing-risk-ddos](http://www.cbcs.ust.hk/case-database/popvote-assessing-risk-ddos){:target="_blank"}
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Advisory
+* [CVE-2018-8311](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8311): Remote Code Execution Vulnerability in Skype For Business and Lync
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Technical Talks
+* XML and JS Hacking, by KE, Zetta. (2017). *OWASP Hong Kong Chapter*, March 11, 2017, Hong Kong.
+* How to Leverage Hackers for Your Business, by KE, Zetta. (2016). *HKUST*, May 28, 2016, Hong Kong.
+* Search for Vulnerable IoT Devices, by KE, Zetta. (2015). *3rd International Conference on CyberCrime and Computer Forensics (ICCCF)*, June 23, 2015, Macau.
+* Capture The Flag (CTF) Game: Fun and Profit, by LAI, Anthony; KE, Zetta. (2014). *Information Security Summit 2014*, October 15, 2014, Hong Kong.
+* Investigation and Intelligence Framework, by WONG, Kelvin; HO, Alan; LAI, Anthony; KE, Zetta. (2014) *HITCON 2014* August 22, 2014, Taipei, Taiwan.
+* Side Channel Attacks in Web Applications, by KE, Zetta. (2014). *Hong Kong Polytechnic University*, February 25, 2014, Hong Kong.
+* Message Authentication and Length Extension Attack, by KE, Zetta. (2013). *OWASP Hong Kong Chapter*, July 27, 2013, Hong Kong.
 
 
-### Definition lists can be used with HTML syntax.
+## Teaching Experience
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Undergraduate Programmes
+* Information and Cyber Security Management, HKUST
+* Developing AI Application, HKUST
+* Blockchain Entrepreneurship for Social Impact, HKUST
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Postgraduate Professional Programmes
+* Computer and Internet Security Management, HKUST
 
-```
-The final element.
-```
+### Industrial Workshops
+* Chip-off Forensics, VX Village, DEF CON, Las Vegas, NV
+* Advanced Web Application Pentest Kungfu, Information Security Showcase, Hong Kong
+
