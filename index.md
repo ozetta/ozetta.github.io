@@ -24,6 +24,7 @@ Prior to joining SMU, he is a Visiting Scholar in HKUST. He also served as a tea
 * Bilateral Liability-Based Contracts in Information Security Outsourcing, by HUI, Kai-Lung; KE, Ping Fan; YAO, Yuxi; YUE, Wei Thoo. (2019). *Information Systems Research*, 30(2), pp.411-429. [https://pubsonline.informs.org/doi/pdf/10.1287/isre.2018.0806](https://pubsonline.informs.org/doi/pdf/10.1287/isre.2018.0806){:target="_blank"}
 
 ### Conference Presentations
+* The Information Disclosure Trilemma: Privacy, Attribution and Dependency. (2019). *Workshop on Information Security and Privacy*, December 15 2019, Munich, Germany.
 * Influence of Transaction Cost on Smart Contract: An Economic Analysis on Token-Curated Registry, by KE, Ping Fan. (2018). *Pre-ICIS SIGBPS 2018 Workshop on Blockchain and Smart Contract*, December 13 2018, San Francisco, CA.
 * An Empirical Study of the Effect of Government-initiated Filter Schemes on Cybersecurity, by HUI, Kai-Lung; KE, Ping Fan; YUE, Wei Thoo. (2017). *Workshop on e-Business (WeB)*, December 10 2017, Seoul, South Korea.
 * Cybersecurity Regulations and Cyberattacks: A case Study in China, by KE, Ping Fan; HUI, Kai-Lung; YUE, Wei Thoo. (2015). *Workshop on Information Systems and Economics (WISE)*, December 12-13 2015, Dallas, TX.
@@ -31,10 +32,13 @@ Prior to joining SMU, he is a Visiting Scholar in HKUST. He also served as a tea
 * Information Security as a Credence Good, by KE, Ping Fan; HUI, Kai-Lung; YUE, Wei Thoo. (2013). *The 2013 Workshop on Usable Security (USEC’ 13)*, April 1 2013, Okinawa, Japan.
 
 ### Case
-* PopVote: Assessing the Risks of DDoS, by HUI, Kai-Lung; HUANG, Minyi; KE, Ping FAN; LAI, Anthony. (2016) Thompson Center for Business Case Studies, HKUST Business School. [http://www.cbcs.ust.hk/case-database/popvote-assessing-risk-ddos](http://www.cbcs.ust.hk/case-database/popvote-assessing-risk-ddos){:target="_blank"}
+* PopVote: Assessing the Risks of DDoS, by HUI, Kai-Lung; HUANG, Minyi; KE, Ping Fan; LAI, Anthony. (2016) Thompson Center for Business Case Studies, HKUST Business School. [http://www.cbcs.ust.hk/case-database/popvote-assessing-risk-ddos](http://www.cbcs.ust.hk/case-database/popvote-assessing-risk-ddos){:target="_blank"}
 
-### Advisory
-* [CVE-2018-8311](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8311): Remote Code Execution Vulnerability in Skype For Business and Lync
+### Advisories
+* [CVE-2019-11751](https://www.mozilla.org/en-US/security/advisories/mfsa2019-25/#CVE-2019-11751){:target="_blank"}: Remote Code Execution Vulnerability in Firefox
+* [CVE-2019-14422](https://www.vulnerability-lab.com/get_content.php?id=2188){:target="_blank"}: Remote Code Execution Vulnerability in TortoiseSVN
+* [CVE-2019-13475](https://www.vulnerability-lab.com/get_content.php?id=2186){:target="_blank"}: Remote Code Execution Vulnerability in MobaXterm
+* [CVE-2018-8311](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8311){:target="_blank"}: Remote Code Execution Vulnerability in Skype For Business and Lync
 
 ### Technical Talks
 * XML and JS Hacking, by KE, Zetta. (2017). *OWASP Hong Kong Chapter*, March 11, 2017, Hong Kong.
@@ -49,6 +53,7 @@ Prior to joining SMU, he is a Visiting Scholar in HKUST. He also served as a tea
 ## Teaching Experience
 
 ### Undergraduate Programmes
+* Business Process Analysis and Solutioning, SMU
 * Information and Cyber Security Management, HKUST
 * Developing AI Application, HKUST
 * Blockchain Entrepreneurship for Social Impact, HKUST
