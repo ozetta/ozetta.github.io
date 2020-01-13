@@ -24,7 +24,8 @@ Prior to joining SMU, he is a Visiting Scholar in HKUST. He also served as a tea
 * Bilateral Liability-Based Contracts in Information Security Outsourcing, by HUI, Kai-Lung; KE, Ping Fan; YAO, Yuxi; YUE, Wei Thoo. (2019). *Information Systems Research*, 30(2), pp.411-429. [https://pubsonline.informs.org/doi/pdf/10.1287/isre.2018.0806](https://pubsonline.informs.org/doi/pdf/10.1287/isre.2018.0806){:target="_blank"}
 
 ### Conference Presentations
-* The Information Disclosure Trilemma: Privacy, Attribution and Dependency. (2019). *Workshop on Information Security and Privacy*, December 15 2019, Munich, Germany.
+* The Role of Threat Actors in Token-Weighted Crowdsourcing with Blockchain, by KE, Ping Fan. (2020). *Production and Operations Management Society (POMS) Hong Kong Chapter International Conference*, January 4-5 2020, Hong Kong.
+* The Information Disclosure Trilemma: Privacy, Attribution and Dependency, by KE, Ping Fan. (2019). *Workshop on Information Security and Privacy*, December 15 2019, Munich, Germany.
 * Influence of Transaction Cost on Smart Contract: An Economic Analysis on Token-Curated Registry, by KE, Ping Fan. (2018). *Pre-ICIS SIGBPS 2018 Workshop on Blockchain and Smart Contract*, December 13 2018, San Francisco, CA.
 * An Empirical Study of the Effect of Government-initiated Filter Schemes on Cybersecurity, by HUI, Kai-Lung; KE, Ping Fan; YUE, Wei Thoo. (2017). *Workshop on e-Business (WeB)*, December 10 2017, Seoul, South Korea.
 * Cybersecurity Regulations and Cyberattacks: A case Study in China, by KE, Ping Fan; HUI, Kai-Lung; YUE, Wei Thoo. (2015). *Workshop on Information Systems and Economics (WISE)*, December 12-13 2015, Dallas, TX.
